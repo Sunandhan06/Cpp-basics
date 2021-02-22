@@ -166,3 +166,17 @@ int h[100] = {1 , 34, 2};
 h[50] = 6;
 
 cout << h[50] << endl;
+ 
+string stri = "2";
+ 
+double stri1 = stod(stri);
+
+cout << 7 + stri1 << endl;
+
+string stri2 = "3";
+
+float stri3 = stof(stri2);
+
+cout << 5 + stri3 << endl;
+ 
+}
